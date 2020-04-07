@@ -1,0 +1,103 @@
+{
+    "regions": {
+        "count": 12,
+        "data": [
+            {
+                "id": 1,
+                "names": {
+                    "ar": "طنجة-تطوان - الحسيمة",
+                    "en": "Tanger-Tetouan-Al Hoceima",
+                    "fr": "Tanger-Tétouan-Al Hoceïma"
+                }
+            },
+            {
+                "id": 2,
+                "names": {
+                    "ar": "الجهة الشرقية",
+                    "en": "Oriental",
+                    "fr": "l'Oriental"
+                }
+            },
+            {
+                "id": 3,
+                "names": {
+                    "ar": "فاس - مكناس",
+                    "en": "Fes-Meknes",
+                    "fr": "Fès-Meknès"
+                }
+            },
+            {
+                "id": 4,
+                "names": {
+                    "ar": "الرباط-سلا - القنيطرة",
+                    "en": "Rabat-Sale-Kenitra",
+                    "fr": "Rabat-Salé-Kénitra"
+                }
+            },
+            {
+                "id": 5,
+                "names": {
+                    "ar": "بني ملال - خنيفرة",
+                    "en": "Beni Mellal-Khenifra",
+                    "fr": "Béni Mellal-Khénifra"
+                }
+            },
+            {
+                "id": 6,
+                "names": {
+                    "ar": "الدار البيضاء - سطات",
+                    "en": "Casablanca-Settat",
+                    "fr": "Casablanca-Settat"
+                }
+            },
+            {
+                "id": 7,
+                "names": {
+                    "ar": "مراكش - أسفي",
+                    "en": "Marrakech-Safi",
+                    "fr": "Marrakech-Safi"
+                }
+            },
+            {
+                "id": 8,
+                "names": {
+                    "ar": "درعة - تافيلالت",
+                    "en": "Dar'a - Tafilalt",
+                    "fr": "Drâa-Tafilalet"
+                }
+            },
+            {
+                "id": 9,
+                "names": {
+                    "ar": "سوس - ماسة",
+                    "en": "Souss-Massa",
+                    "fr": "Souss-Massa"
+                }
+            },
+            {
+                "id": 10,
+                "names": {
+                    "ar": "كلميم - واد نون",
+                    "en": "Guelmim-Oued Noun",
+                    "fr": "Guelmim-Oued Noun"
+                }
+            },
+            {
+                "id": 11,
+                "names": {
+                    "ar": "العيون - الساقية الحمراء",
+                    "en": "Laayoune-Sakia El Hamra",
+                    "fr": "Laâyoune-Sakia El Hamra"
+                }
+            },
+            {
+                "id": 12,
+                "names": {
+                    "ar": "الداخلة - وادي الذهب",
+                    "en": "Dakhla-Oued Ed Dahab",
+                    "fr": "Dakhla-Oued Ed Dahab"
+                }
+            }
+        ]
+    }
+}

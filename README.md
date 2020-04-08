@@ -2,7 +2,7 @@
 This repo contains lists of Moroccan regions and cities in Arabic, English and French
 
 # Help needed
-Some cities miss the translation to Arabic, a Pull Request with the value(s) updated is much appreciated.
+Someone to check if there are any double entries, miss-spellings or any problem with the data.
 
 # Available files
 
